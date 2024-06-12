@@ -35,7 +35,7 @@ The **Quiz App** is an Android application developed using Kotlin and Jetpack Co
 5. **View Score**: After completing the quiz, your score will be displayed with an accompanying animation.
 
 ## Screenshots
-https://drive.google.com/file/d/14O7iDBLjT370qm1hUiYNpjSMvJ3ZlZIj/view?usp=sharing
+
 https://drive.google.com/file/d/14O7iDBLjT370qm1hUiYNpjSMvJ3ZlZIj/view?usp=sharing
 https://drive.google.com/file/d/14IgLWCXFICIlSkIOZPmpM0eJL6IoC9ub/view?usp=sharing
 https://drive.google.com/file/d/14GT1aIN2HkxjGhr0tJaZFaliu4sO2YfQ/view?usp=sharing
