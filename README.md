@@ -36,15 +36,13 @@ The **Quiz App** is an Android application developed using Kotlin and Jetpack Co
 
 ## Screenshots
 
-![Quiz Settings](https://drive.google.com/file/d/14O7iDBLjT370qm1hUiYNpjSMvJ3ZlZIj/view?usp=sharing)
-![Quiz Screen](https://drive.google.com/file/d/14IgLWCXFICIlSkIOZPmpM0eJL6IoC9ub/view?usp=sharing)
-![Score Screen](https://drive.google.com/file/d/14GT1aIN2HkxjGhr0tJaZFaliu4sO2YfQ/view?usp=sharing)
+https://drive.google.com/file/d/14O7iDBLjT370qm1hUiYNpjSMvJ3ZlZIj/view?usp=sharing
+https://drive.google.com/file/d/14IgLWCXFICIlSkIOZPmpM0eJL6IoC9ub/view?usp=sharing
+https://drive.google.com/file/d/14GT1aIN2HkxjGhr0tJaZFaliu4sO2YfQ/view?usp=sharing
 
 
 ## Contact
 
-Vishnu Venkatesh Jawalkar - [your-email@example.com](jawalkarvishnu321@gmail.com)
-
-Project Link: [https://github.com/your-username/quiz-app]()
+Vishnu Venkatesh Jawalkar - jawalkarvishnu321@gmail.com
 
 ---
